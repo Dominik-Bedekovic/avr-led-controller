@@ -2,8 +2,6 @@
 
 An educational AVR assembly prototype combining LED patterns, external interrupts, timers, button handling, and PWM brightness control. Developed from concepts in university AVR lab material.
 
-**Status:** assembles with AVRA 1.4.2; not tested on a physical board or in a simulator. This is newly integrated firmware, not a verified copy of the original lab exercises.
-
 ## Features
 
 - Three patterns on eight LEDs: blink, running light, and filling bar.
